@@ -22,4 +22,5 @@ public class ItemDto {
     // private String category;
 
     private Set<String> attributes;
+    //test
 }
